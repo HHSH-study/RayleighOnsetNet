@@ -1,6 +1,8 @@
 # RayleighOnsetNet
 
-Frozen-model inference and supporting data for **RayleighOnsetNet: Physics-Motivated Two-Stage Deep Learning for Long-Period Rayleigh-Wave Onset Picking in Sedimentary Basins**, by Haishun Huang, Hanling Wang, Hongwei Wang and Ruizhi Wen. Correspondence: Hongwei Wang, whw1990413@163.com.
+Frozen-model inference and supporting data for **RayleighOnsetNet: Physics-Motivated Two-Stage Deep Learning for Long-Period Rayleigh-Wave Onset Picking in Sedimentary Basins**, by Haishun Huang, Hanling Wang, Hongwei Wang and Ruizhi Wen. **Paper correspondence:** Hongwei Wang — whw1990413@163.com
+
+**Repository maintenance and technical support:** Haishun Huang — hhshstudy@163.com
 
 This is an inference release, not a full training repository. The two checkpoint files require both `rayleigh_onsetnet_model.py` (network definition) and `predict.py` (input handling and coarse-to-refine inference).
 
