@@ -1,0 +1,334 @@
+{
+  "records": [
+    {
+      "filename": "acCHB0012512082315.dat.v",
+      "station": "CHB001",
+      "event_identifier": "20251208231500",
+      "dt_s": 0.0099999998,
+      "npts": 15392,
+      "sha256": "e2e2b93c1b23f0b5d72c0d695d34d05093ae99d45f2754a6eb0ef39ff9078e3e",
+      "provider": "NIED K-NET/KiK-net",
+      "source_record_stem": "acCHB0012512082315"
+    },
+    {
+      "filename": "acCHB0022512082315.dat.v",
+      "station": "CHB002",
+      "event_identifier": "20251208231500",
+      "dt_s": 0.0099999998,
+      "npts": 14192,
+      "sha256": "d6d59ea9e7f7716ad7977e519aa978f91c7be96e5d05d575efe7d3683d467f55",
+      "provider": "NIED K-NET/KiK-net",
+      "source_record_stem": "acCHB0022512082315"
+    },
+    {
+      "filename": "acCHB0032512082315.dat.v",
+      "station": "CHB003",
+      "event_identifier": "20251208231500",
+      "dt_s": 0.0099999998,
+      "npts": 7896,
+      "sha256": "18f585ee1501c3710ecaedb87049fb44bd30909a6f289dee41c6a917d5b552c5",
+      "provider": "NIED K-NET/KiK-net",
+      "source_record_stem": "acCHB0032512082315"
+    },
+    {
+      "filename": "acCHB0062512082315.dat.v",
+      "station": "CHB006",
+      "event_identifier": "20251208231500",
+      "dt_s": 0.0099999998,
+      "npts": 6992,
+      "sha256": "67432134423ef6fdcd776d3b95d755f67330fc7db4821302ff0e3d2dc3585419",
+      "provider": "NIED K-NET/KiK-net",
+      "source_record_stem": "acCHB0062512082315"
+    },
+    {
+      "filename": "acCHB0072512082315.dat.v",
+      "station": "CHB007",
+      "event_identifier": "20251208231500",
+      "dt_s": 0.0099999998,
+      "npts": 12592,
+      "sha256": "c299573255dcc8feb5e335e5a53ed04edcb824f917321673a5793cd499fd7395",
+      "provider": "NIED K-NET/KiK-net",
+      "source_record_stem": "acCHB0072512082315"
+    },
+    {
+      "filename": "acCHB0082512082315.dat.v",
+      "station": "CHB008",
+      "event_identifier": "20251208231500",
+      "dt_s": 0.0099999998,
+      "npts": 26896,
+      "sha256": "771d29430f8802d38cda07c2f69a58491bff232355770e966555a6360bf25988",
+      "provider": "NIED K-NET/KiK-net",
+      "source_record_stem": "acCHB0082512082315"
+    },
+    {
+      "filename": "acCHB0102512082315.dat.v",
+      "station": "CHB010",
+      "event_identifier": "20251208231500",
+      "dt_s": 0.0099999998,
+      "npts": 17296,
+      "sha256": "85bd9cc53a5a6e99082351abad68153691a4338d4ce5b0b97d2df5d6807cb7c3",
+      "provider": "NIED K-NET/KiK-net",
+      "source_record_stem": "acCHB0102512082315"
+    },
+    {
+      "filename": "acCHB0112512082315.dat.v",
+      "station": "CHB011",
+      "event_identifier": "20251208231500",
+      "dt_s": 0.0099999998,
+      "npts": 21896,
+      "sha256": "9519c675305efbc5a13d67744b8bb7643742e397f4a0eaddbb4a667248754032",
+      "provider": "NIED K-NET/KiK-net",
+      "source_record_stem": "acCHB0112512082315"
+    },
+    {
+      "filename": "acCHB0122512082315.dat.v",
+      "station": "CHB012",
+      "event_identifier": "20251208231500",
+      "dt_s": 0.0099999998,
+      "npts": 23896,
+      "sha256": "e5468dabe033a08bd6b49d0faa004e6da57785e979336c1596470cc52f45c14d",
+      "provider": "NIED K-NET/KiK-net",
+      "source_record_stem": "acCHB0122512082315"
+    },
+    {
+      "filename": "acCHB0132512082315.dat.v",
+      "station": "CHB013",
+      "event_identifier": "20251208231500",
+      "dt_s": 0.0099999998,
+      "npts": 11296,
+      "sha256": "d68b5843d1c7bebaa3afc152e9d9716aca419124cdf35ca7369fb3e660ffdb68",
+      "provider": "NIED K-NET/KiK-net",
+      "source_record_stem": "acCHB0132512082315"
+    },
+    {
+      "filename": "acCHB0142512082315.dat.v",
+      "station": "CHB014",
+      "event_identifier": "20251208231500",
+      "dt_s": 0.0099999998,
+      "npts": 20392,
+      "sha256": "c2a41d5b576f356ba5a551692f18c4f3f35621a70d29a27df977b51a37dd42a0",
+      "provider": "NIED K-NET/KiK-net",
+      "source_record_stem": "acCHB0142512082315"
+    },
+    {
+      "filename": "acCHB0152512082315.dat.v",
+      "station": "CHB015",
+      "event_identifier": "20251208231500",
+      "dt_s": 0.0099999998,
+      "npts": 11592,
+      "sha256": "600cc2b8ff3685a9abca763d11e4718dbc67761f897241d92e51ca6a32ff0abb",
+      "provider": "NIED K-NET/KiK-net",
+      "source_record_stem": "acCHB0152512082315"
+    },
+    {
+      "filename": "acCHB0172512082315.dat.v",
+      "station": "CHB017",
+      "event_identifier": "20251208231500",
+      "dt_s": 0.0099999998,
+      "npts": 14792,
+      "sha256": "b1608829f2dab45ade17486bcb7d22f8bb4c09d77de17590e47eabb4e174e138",
+      "provider": "NIED K-NET/KiK-net",
+      "source_record_stem": "acCHB0172512082315"
+    },
+    {
+      "filename": "acCHB0222512082315.dat.v",
+      "station": "CHB022",
+      "event_identifier": "20251208231500",
+      "dt_s": 0.0099999998,
+      "npts": 12696,
+      "sha256": "c0ed52db87f65e7128ece82d75d52ea39591b8038ec76176738477ff5b725f5b",
+      "provider": "NIED K-NET/KiK-net",
+      "source_record_stem": "acCHB0222512082315"
+    },
+    {
+      "filename": "acCHB0242512082315.dat.v",
+      "station": "CHB024",
+      "event_identifier": "20251208231500",
+      "dt_s": 0.0099999998,
+      "npts": 24296,
+      "sha256": "490cdcffeb44617f99ce986af38a2bcd90a99f887b4fe4e8c7264f9fe2ae35b3",
+      "provider": "NIED K-NET/KiK-net",
+      "source_record_stem": "acCHB0242512082315"
+    },
+    {
+      "filename": "acGNM0072512082315.dat.v",
+      "station": "GNM007",
+      "event_identifier": "20251208231500",
+      "dt_s": 0.0099999998,
+      "npts": 9792,
+      "sha256": "a4b86f8f242fc8a5893d6661d17d27d4fc5a09fb5a8653e8a813005cc532cec3",
+      "provider": "NIED K-NET/KiK-net",
+      "source_record_stem": "acGNM0072512082315"
+    },
+    {
+      "filename": "acGNM0082512082315.dat.v",
+      "station": "GNM008",
+      "event_identifier": "20251208231500",
+      "dt_s": 0.0099999998,
+      "npts": 10792,
+      "sha256": "44d106060d4e9b494dbdab391f142b9c989ad7362a871385f27109957aa9fd27",
+      "provider": "NIED K-NET/KiK-net",
+      "source_record_stem": "acGNM0082512082315"
+    },
+    {
+      "filename": "acGNM0132512082315.dat.v",
+      "station": "GNM013",
+      "event_identifier": "20251208231500",
+      "dt_s": 0.0099999998,
+      "npts": 11096,
+      "sha256": "229ea295c473eec3369d2748812250db67eb0a5e372ac2cdd30d98ad4cc7883d",
+      "provider": "NIED K-NET/KiK-net",
+      "source_record_stem": "acGNM0132512082315"
+    },
+    {
+      "filename": "acIBR0092512082315.dat.v",
+      "station": "IBR009",
+      "event_identifier": "20251208231500",
+      "dt_s": 0.0099999998,
+      "npts": 24592,
+      "sha256": "b2c10dc5b4b9808ef18ceaf84a96e241957b1b818bc3a341325ac2cd6498ccca",
+      "provider": "NIED K-NET/KiK-net",
+      "source_record_stem": "acIBR0092512082315"
+    },
+    {
+      "filename": "acKNG0012512082315.dat.v",
+      "station": "KNG001",
+      "event_identifier": "20251208231500",
+      "dt_s": 0.0099999998,
+      "npts": 6096,
+      "sha256": "9d3f6a4405b2741782d90c61144034c8980e70dd2e8a762e34cb22f5831cc320",
+      "provider": "NIED K-NET/KiK-net",
+      "source_record_stem": "acKNG0012512082315"
+    },
+    {
+      "filename": "acKNG0022512082315.dat.v",
+      "station": "KNG002",
+      "event_identifier": "20251208231500",
+      "dt_s": 0.0099999998,
+      "npts": 21392,
+      "sha256": "b847f12e5e7230ee9b17d0f8c5f1b117fdba35aa98b34dc59db8c277f6b702e6",
+      "provider": "NIED K-NET/KiK-net",
+      "source_record_stem": "acKNG0022512082315"
+    },
+    {
+      "filename": "acSIT0012512082315.dat.v",
+      "station": "SIT001",
+      "event_identifier": "20251208231500",
+      "dt_s": 0.0099999998,
+      "npts": 12592,
+      "sha256": "e499e50c9899fca599ca06e81e71c9e2c7e646c60f06ae2a69af3d8b52c4bc3c",
+      "provider": "NIED K-NET/KiK-net",
+      "source_record_stem": "acSIT0012512082315"
+    },
+    {
+      "filename": "acSIT0022512082315.dat.v",
+      "station": "SIT002",
+      "event_identifier": "20251208231500",
+      "dt_s": 0.0099999998,
+      "npts": 13392,
+      "sha256": "955530a92f6c4cb911e38751a97e25dfb4f8346a9dc0ce58eda1c8e3c80572b3",
+      "provider": "NIED K-NET/KiK-net",
+      "source_record_stem": "acSIT0022512082315"
+    },
+    {
+      "filename": "acSIT0032512082315.dat.v",
+      "station": "SIT003",
+      "event_identifier": "20251208231500",
+      "dt_s": 0.0099999998,
+      "npts": 29992,
+      "sha256": "9f13f0b02691c254951fbce51a1c30942ae8e9d713fade067d8011d6e46630ff",
+      "provider": "NIED K-NET/KiK-net",
+      "source_record_stem": "acSIT0032512082315"
+    },
+    {
+      "filename": "acSIT0082512082315.dat.v",
+      "station": "SIT008",
+      "event_identifier": "20251208231500",
+      "dt_s": 0.0099999998,
+      "npts": 28392,
+      "sha256": "b562c2fd336cb37468f1e59df376887f831e7603643bbc59e10b7feab7320587",
+      "provider": "NIED K-NET/KiK-net",
+      "source_record_stem": "acSIT0082512082315"
+    },
+    {
+      "filename": "acSIT0092512082315.dat.v",
+      "station": "SIT009",
+      "event_identifier": "20251208231500",
+      "dt_s": 0.0099999998,
+      "npts": 9992,
+      "sha256": "a23843a1e36d991405589f6ddfde4793a083657fdb47b230044c185733c8b5c7",
+      "provider": "NIED K-NET/KiK-net",
+      "source_record_stem": "acSIT0092512082315"
+    },
+    {
+      "filename": "acSIT0102512082315.dat.v",
+      "station": "SIT010",
+      "event_identifier": "20251208231500",
+      "dt_s": 0.0099999998,
+      "npts": 24096,
+      "sha256": "580a19ffe220647e6c076692b67acbdda448ca900842e87de883ed7eca0af69e",
+      "provider": "NIED K-NET/KiK-net",
+      "source_record_stem": "acSIT0102512082315"
+    },
+    {
+      "filename": "acSIT0112512082315.dat.v",
+      "station": "SIT011",
+      "event_identifier": "20251208231500",
+      "dt_s": 0.0099999998,
+      "npts": 18792,
+      "sha256": "feaf317340ea3aaa96f62c0ff194127978b11c3e5dbe97629f811d77e73feff2",
+      "provider": "NIED K-NET/KiK-net",
+      "source_record_stem": "acSIT0112512082315"
+    },
+    {
+      "filename": "acSITH042512082315.dat.v",
+      "station": "SITH04",
+      "event_identifier": "20251208231500",
+      "dt_s": 0.0099999998,
+      "npts": 12592,
+      "sha256": "2604900b2d229ec1fdd16555def7cdf7e9153907de61a6539464b8b8a18ecf00",
+      "provider": "NIED K-NET/KiK-net",
+      "source_record_stem": "acSITH042512082315"
+    },
+    {
+      "filename": "acTKY0042512082315.dat.v",
+      "station": "TKY004",
+      "event_identifier": "20251208231500",
+      "dt_s": 0.0099999998,
+      "npts": 11696,
+      "sha256": "21860ae5772953e73f4e1e3ba17367e13c382eec20c865070fad3981a5be4b1a",
+      "provider": "NIED K-NET/KiK-net",
+      "source_record_stem": "acTKY0042512082315"
+    },
+    {
+      "filename": "acTKY0052512082315.dat.v",
+      "station": "TKY005",
+      "event_identifier": "20251208231500",
+      "dt_s": 0.0099999998,
+      "npts": 13792,
+      "sha256": "1dbce69646e2ca68e90a83983c1ed7b93a3b4c3afd865e3a21bab260e776ed55",
+      "provider": "NIED K-NET/KiK-net",
+      "source_record_stem": "acTKY0052512082315"
+    },
+    {
+      "filename": "acTKY0062512082315.dat.v",
+      "station": "TKY006",
+      "event_identifier": "20251208231500",
+      "dt_s": 0.0099999998,
+      "npts": 10592,
+      "sha256": "161a1f1820ee92a78c31fa09e168f7eefcdd4a501271f6c4d9938be421fb6eb0",
+      "provider": "NIED K-NET/KiK-net",
+      "source_record_stem": "acTKY0062512082315"
+    },
+    {
+      "filename": "acTKY0072512082315.dat.v",
+      "station": "TKY007",
+      "event_identifier": "20251208231500",
+      "dt_s": 0.0099999998,
+      "npts": 18096,
+      "sha256": "06bb1c0b562f261baa05faa58cb04f12e165512e5370a647a94f9a6c891c339a",
+      "provider": "NIED K-NET/KiK-net",
+      "source_record_stem": "acTKY0072512082315"
+    }
+  ]
+}

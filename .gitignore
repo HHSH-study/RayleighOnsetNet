@@ -1,0 +1,38 @@
+# Generated files and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+outputs/
+new_predictions.csv
+
+# Exclude other waveforms, manuscripts and private working folders.
+*.v
+!example/NZ_2016_Kaikoura_WEL_20.v
+*.a
+*.d
+*.dat
+*.sac
+*.SAC
+*.mseed
+*.miniseed
+*.npz
+*.npy
+*.docx
+*.pdf
+*.zip
+.codex_work/
+example_prediction.csv
+my_prediction.csv
+batch_predictions.csv
+
+# Only the two approved frozen checkpoint files belong in this repository.
+*.pth
+!checkpoints/coarse_best.pth
+!checkpoints/refine_best.pth

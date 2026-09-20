@@ -1,0 +1,6 @@
+﻿region,total_n,class_A_n,class_B_n,class_C_n,evaluable_n,evaluable_pct,refined_Acc_at_5s_pct,refined_Acc_at_10s_pct,refined_MAE_s,refined_Median_AE_s,refined_Mean_signed_error_s
+Western Taiwan Coastal Plain,36,14,16,6,30,83.333333,86.666667,96.666667,3.193538,2.306542,2.034628
+Los Angeles Basin,61,28,22,11,50,81.967213,68.000000,92.000000,4.674891,2.902853,4.329310
+Kathmandu Basin,6,2,4,0,6,100.000000,100.000000,100.000000,2.358455,2.659188,1.353208
+Wellington region,13,1,12,0,13,100.000000,69.230769,100.000000,4.282999,4.655009,4.254725
+Po Plain,26,11,12,3,23,88.461538,73.913043,91.304348,3.310095,2.011606,1.635506
